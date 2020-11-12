@@ -1,0 +1,17 @@
+{
+  "name": "CCAFS-Climate Data Tutorial",
+  "appLayout": "accordion",
+  "appTheme": "g90",
+  "footer": "footer.md",
+  "tutorials": [
+    {
+      "description": "High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments.",
+      "duration": "5 minutes",
+      "tutorial_name": "ccafs_climate_data.md",
+      "title": "CCAFS-Climate Data"
+    }
+  ],
+  "usefulLinks": [],
+  "demos": [],
+  "isTutorialSaved": true
+}
