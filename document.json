@@ -4,21 +4,11 @@
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
   "de_catalog_id": "ccafs-climate-data-dataset",
-  "type": "Dataset",
   "categories": [
     "Employment"
   ],
-  "commands": [],
-  "platform": "Kubernetes",
   "cover": "cover.md",
   "buckets": [ "cgiardata" ],
-  "display": [
-    {
-      "name": "Developer Dashboard",
-      "url": "##DNS.host##/codeserver",
-      "enabled": true
-    }
-  ],
   "meta": {
     "Install time": [
       "3 minutes"
@@ -27,10 +17,12 @@
       "Dataset"
     ],
     "Tag": [ "S3" ],
-    "categories": [
+    "Categories": [
       "Climate",
       "Agriculture"
+    ],
+    "Catalog Id": [
+      "ccafs-climate-data-dataset"
     ]
-  },
-  "isDocumentSaved": true
+  }
 }
