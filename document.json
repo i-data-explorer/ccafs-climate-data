@@ -3,7 +3,7 @@
   "description": "High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments.",
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
-  "stack_id": "ccafs-climate-data-dataset",
+  "de_catalog_id": "ccafs-climate-data-dataset",
   "type": "Dataset",
   "categories": [
     "Employment"
