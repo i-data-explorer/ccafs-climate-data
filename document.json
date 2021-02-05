@@ -10,7 +10,7 @@
   "cover": "cover.md",
   "buckets": [ "cgiardata" ],
   "meta": {
-    "Install time": [
+    "Install Time": [
       "3 minutes"
     ],
     "Type": [
@@ -20,6 +20,15 @@
     "Categories": [
       "Climate",
       "Agriculture"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ],
     "Catalog Id": [
       "ccafs-climate-data-dataset"
